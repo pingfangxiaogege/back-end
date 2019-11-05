@@ -14,7 +14,7 @@
     "express-jwt": "^5.3.1",
     "http-errors": "~1.6.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "utility": "^1.16.1"
   }
